@@ -1,0 +1,8 @@
+{
+  "backfillLimit": false,
+  "breakingPattern": "!:",
+  "commitLimit": false,
+  "ignoreCommitPattern": "^(chore|build|ci|style|):",
+  "sortCommits": "subject",
+  "unreleased": true
+}
